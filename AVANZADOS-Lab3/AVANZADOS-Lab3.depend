@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1492753171 source:c:\users\andres\documents\projects\avanzados-lab3\avanzados-lab3\funciones.c
+	<stdio.h>
+	<string.h>
+	"funciones.h"
+
+1492750599 c:\users\andres\documents\projects\avanzados-lab3\avanzados-lab3\funciones.h
+
+1492752697 source:c:\users\andres\documents\projects\avanzados-lab3\avanzados-lab3\main.c
+	<stdio.h>
+	<stdlib.h>
+
